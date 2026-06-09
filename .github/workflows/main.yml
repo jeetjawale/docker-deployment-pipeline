@@ -27,4 +27,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jeetjawale/docker-deployment-pipeline:latestdo
+          tags: jeetjawale/docker-deployment-pipeline:latest
